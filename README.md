@@ -37,6 +37,6 @@ In the `Main` class, an instance of `Lion` is created and its methods are called
 
 ### Output
 The output of the `Main` class will be:
-Animal Incoming!
-The Lion ROARS
-Its name is David
+Animal Incoming!  
+The Lion ROARS  
+Its name is David  
